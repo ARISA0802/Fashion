@@ -1,0 +1,2 @@
+class Officecordinate < ApplicationRecord
+end

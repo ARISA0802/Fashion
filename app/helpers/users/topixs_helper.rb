@@ -1,0 +1,2 @@
+module Users::TopixsHelper
+end

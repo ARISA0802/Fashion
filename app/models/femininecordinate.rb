@@ -1,0 +1,2 @@
+class Femininecordinate < ApplicationRecord
+end

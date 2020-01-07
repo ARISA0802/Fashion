@@ -1,0 +1,2 @@
+module Admin::CasualHelper
+end

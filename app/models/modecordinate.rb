@@ -1,0 +1,2 @@
+class Modecordinate < ApplicationRecord
+end

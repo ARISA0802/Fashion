@@ -1,0 +1,2 @@
+class Casualcordinate < ApplicationRecord
+end
