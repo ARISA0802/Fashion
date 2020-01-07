@@ -1,0 +1,2 @@
+class Codeshow < ApplicationRecord
+end
